@@ -1,8 +1,8 @@
-✨ 👋 Hi, I’m @Wolf-256 (JP 🐺) ;
-✨ 👀 I’m interested in ... Iced Coffee ;
-✨ 🌱 I’m currently learning ... Computer Science ;
-✨ 💞️ I’m looking to collaborate on ... Everything! ;
-✨ 📫 How to reach me ... DM or Email ;
+✨ 👋 Hi, I’m @Wolf-256 (JP 🐺) ; <br>
+✨ 👀 I’m interested in ... Iced Coffee ; <br>
+✨ 🌱 I’m currently learning ... Computer Science ; <br>
+✨ 💞️ I’m looking to collaborate on ... Everything! ; <br>
+✨ 📫 How to reach me ... DM or Email ; <br> 
 
 <!---🐺
 Wolf-256/Wolf-256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
